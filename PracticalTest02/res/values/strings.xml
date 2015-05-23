@@ -12,8 +12,12 @@
     <string name="client_port">Port</string>
     <string name="city">City</string>
     <string-array name="information_types">
-        <item >temperatura</item>
-        <item >viteza vantului</item>
+        <item >temperature</item>
+        <item >wind_speed</item>
+        <item >condition</item>
+        <item >pressure</item>
+        <item >humidity</item>
+        <item >all</item>
     </string-array>
     <string name="get_weather_forecast">Get weather forecast</string>
 
