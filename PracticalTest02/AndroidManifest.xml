@@ -3,10 +3,8 @@
     package="ro.pub.cs.systems.pdsd.practicaltest02"
     android:versionCode="1"
     android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="21" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-sdk android:targetSdkVersion="21" android:minSdkVersion="16"/>
 
     <application
         android:allowBackup="true"

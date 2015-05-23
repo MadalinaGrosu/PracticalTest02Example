@@ -4,5 +4,17 @@
     <string name="app_name">PracticalTest02</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="server">Server</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">Client</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="city">City</string>
+    <string-array name="information_types">
+        <item >temperatura</item>
+        <item >viteza vantului</item>
+    </string-array>
+    <string name="get_weather_forecast">Get weather forecast</string>
 
 </resources>
